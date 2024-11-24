@@ -18,3 +18,4 @@ tavily-python
 wikipedia
 trustcall
 langgraph-cli
+langchain_experimental
